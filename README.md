@@ -161,5 +161,5 @@ Consideraciones
 
 ## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para más detalles.
+Este proyecto está licenciado bajo la Licencia CC0. Consulta el archivo [LICENSE](./LICENSE) para más detalles.
 
