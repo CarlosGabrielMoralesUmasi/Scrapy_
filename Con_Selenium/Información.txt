@@ -1,0 +1,5 @@
+Este código es usando Selenium y ChromeDriver compatible con navegador Chrome versiones 114: https://sites.google.com/chromium.org/driver/downloads?authuser=0
+
+Solo hice scraping básico ya que demora mucho al hacer el scrapy ya que no solo analiza el html(como lo hace BeautifulSoup), sino que Selenium analiza todos los archivos.
+
+Para ejecutar solo: python scrapy2.py
